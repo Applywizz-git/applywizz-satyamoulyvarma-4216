@@ -30,7 +30,7 @@ const socialLinks = [
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    href: 'https://www.linkedin.com/in/satyavarma/', // Using a placeholder that looks plausible
+    href: 'https://www.linkedin.com/in/naga-venkata-sathya-v/', // Using a placeholder that looks plausible
     color: 'hsl(210, 80%, 45%)',
   },
 ];
