@@ -75,7 +75,7 @@ export default function HeroSection() {
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ delay: 0.4 }}
                 >
-                  Naga Venkata
+                  Naga Venkata Sathya
                 </motion.span>
 
               </h1>
