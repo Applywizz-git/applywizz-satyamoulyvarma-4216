@@ -15,7 +15,7 @@ const contactInfo = [
   {
     icon: Phone,
     label: 'Phone',
-    value: '+1 (475) 467-0079',
+    value: '+1502-276-5723',
     href: 'tel:+14754670079',
   },
   {
