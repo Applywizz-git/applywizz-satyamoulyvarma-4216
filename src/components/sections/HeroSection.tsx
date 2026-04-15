@@ -127,7 +127,7 @@ export default function HeroSection() {
 
               <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
                 <Button variant="glass" size="lg" asChild>
-                  <a href="/AWL-4216-12122025-0406-resume_naga-venkata_ba.pdf" target="_blank" rel="noopener noreferrer">
+                  <a href="/Naga_Venkata_Sathya_BA.pdf" target="_blank" rel="noopener noreferrer">
                     <FileText className="w-5 h-5" />
                     Resume
                   </a>
